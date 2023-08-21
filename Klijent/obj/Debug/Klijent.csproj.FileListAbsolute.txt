@@ -1,0 +1,12 @@
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\bin\Debug\Klijent.exe
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\bin\Debug\Klijent.pdb
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\obj\Debug\Klijent.csproj.AssemblyReference.cache
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\obj\Debug\Klijent.Form1.resources
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\obj\Debug\Klijent.exe
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\obj\Debug\Klijent.pdb
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\SasaJ\source\repos\ServerskiDeo\Klijent\bin\Debug\Biblioteka.pdb
